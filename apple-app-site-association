@@ -1,0 +1,11 @@
+{
+   "applinks:": {
+       "apps": []
+       "details": [
+                    {
+                      "appID": "23F86YPP9C.ch.slaurent.TestUniversalLinks2"
+                      "paths": ["*"]
+                    }
+       ]
+   }
+}
